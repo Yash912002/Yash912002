@@ -1,6 +1,6 @@
 👋 Hello, I'm Yash Bhavsar!
 
-🎓 Final Year Student | Frontend Developer | Web Enthusiast
+🎓 Frontend Developer | Web Enthusiast
 
 🚀 As an aspiring frontend developer, I enjoy staying up-to-date with the latest trends and technologies in the web development industry. 
 
